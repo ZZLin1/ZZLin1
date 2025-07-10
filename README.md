@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - PhD Candidate in Robotics at Harbin Institute of Technology (HIT), specializing in reinforcement learning control for legged locomotion.
-- 
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=ZZLin1&locale=cn&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=default"/>
-
+[![ZZLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZZLin1&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
